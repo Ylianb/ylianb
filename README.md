@@ -1,4 +1,4 @@
-<h1>Salut, moi c'est Ylian :wave: ! <br/><h1>Je suis un <a href="https://www.linkedin.com/in/joshmadakor/">Administrateur de base de données</a> spécialisé en Oracle </h1>
+<h1>Salut, moi c'est Ylian :wave: ! <br/><h1>Je suis un <a href="https://www.linkedin.com/in/ylian-bertrand/">Administrateur de base de données</a> spécialisé en Oracle </h1>
 
 <h2>:file_folder: Voici mes projets :</h2>
 
