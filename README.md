@@ -1,22 +1,13 @@
 <h1>Salut, moi c'est Ylian :wave: ! <br/><h1>Je suis un <a href="https://www.linkedin.com/in/ylian-bertrand/">Administrateur de base de données</a> spécialisé en Oracle </h1>
 
-<h2>:file_folder: Voici mes projets :</h2>
-
-  - <a href="https://github.com/mon-compte/oracle-admin-scripts">Scripts d’administration Oracle</a>
-
-<h2>:white_check_mark: Mes certifications :</h2>
-
-- Oracle Certified Associate (OCA) - Administration Oracle Database
-- Google Associate Cloud Engineer (GCP CE)
-
 <h2>:books: Mon parcours scolaire :</h2>
 
-- Programme Grande École - SUPINFO (2025-2028)
+- Programme Grande École - SUPINFO (2025-2026)
 - BTS Services Informatiques aux Organisations - Gaston Berger (2023-2025)
 
 <h2>:office: Mon parcours professionnel :</h2>
 
-- Administrateur de base de données Oracle en alternance - All4it (2025-2028)
+- Administrateur de base de données Oracle en alternance - All4it (2025-2026)
 - Développeur logiciel en stage - extremIt (Juin-Juillet 2024)
   
 <h2>:email: Rejoins moi sur :</h2>
